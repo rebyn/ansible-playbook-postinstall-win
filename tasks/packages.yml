@@ -35,4 +35,4 @@
   - 'aws-iam-authenticator'
   - 'awstools.powershell'
   - 'awscli'
-  
+  - 'gh'
