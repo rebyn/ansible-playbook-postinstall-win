@@ -29,3 +29,10 @@
   - 'slack'
   - 'spotify'
   - 'dotnetcore-sdk'
+  - 'mssqlserver2014express'
+  - 'sql2014-powershell'
+  - 'aws-vault'
+  - 'aws-iam-authenticator'
+  - 'awstools.powershell'
+  - 'awscli'
+  
